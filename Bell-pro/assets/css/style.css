@@ -87,7 +87,7 @@ a:hover {
   border-radius: 50px;
 }
 .btn:hover {
-  background-color: lime;
+  background-color: #ed3c0d;
   color: #fff;
 }
 .btn:focus {
