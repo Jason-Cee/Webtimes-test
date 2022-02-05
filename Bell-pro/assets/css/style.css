@@ -389,7 +389,8 @@ a:hover {
 }
 
 .hero-brand {
-  margin-bottom: 5px;
+  margin-bottom: 65px;
+  top: 0;
   display: inline-block;
 }
 .hero-brand:hover {
@@ -576,7 +577,6 @@ a:hover {
   opacity: 1;
   visibility: visible;
 }
-
 /* ==================================================
   Team Styling
   ================================================== */
@@ -654,6 +654,7 @@ a:hover {
   font-size: 18px;
   color: #999;
 }
+
 
 /* ==================================================
   Contact Section
